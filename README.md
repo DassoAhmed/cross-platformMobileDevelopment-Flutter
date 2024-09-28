@@ -11,17 +11,7 @@ The course is new and updated to the latest version!
 
 
 
-Enroll now and get access to:
-
-Over 1.5 hours of exclusive Flutter content to help you get started as a cross-platform developer.
-
-Dedicated section to Dart programming to learn essential concepts.
-
-Advance topics on HTTP requests, JSON parsing, Navigation, and more in the same course.
-
-
-
-From Beginner to Flutter Developer with Just One Course
+##From Beginner to Flutter Developer with Just One Course
 
 We know that you're here because you value your time. If you wanted to watch someone program for hours and hours without explaining what they're doing, you'd be on YouTube.
 
